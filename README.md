@@ -1,8 +1,6 @@
 <h1 align="center">你好，我是 Yaki-Blake 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&height=60&lines=%E5%B9%BF%E4%B8%9C%E8%B4%A2%E7%BB%8F%E5%A4%A7%E5%AD%A6%20%C2%B7%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF%3BC%2B%2B%20%2F%20STL%20%E5%AD%A6%E4%B9%A0%E4%B8%AD%3Bvibe%20coder%20%C2%B7%20%E9%80%A0%E8%BF%87%20Obsidian%20%E6%8F%92%E4%BB%B6%3B%E6%AD%A3%E5%9C%A8%E6%89%BE%E5%AE%9E%E4%B9%A0%EF%BC%88%E6%B7%B1%E5%9C%B3%20%2F%20%E5%B9%BF%E5%B7%9E%20%2F%20%E4%BD%9B%E5%B1%B1%EF%BC%89" alt="Typing SVG" />
-</p>
+<img src="assets/wave-text.svg" alt="广东财经大学 · 计算机科学与技术 / C++ / STL 学习中" height="96" />
 
 ## 📮 联系方式
 

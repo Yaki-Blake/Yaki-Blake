@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="326" height="96" viewBox="0 0 326 96">
+<style>
+  text { font-family:'Cascadia Code','Fira Code',Consolas,'Courier New',monospace; font-size:20px; font-weight:600; fill:#58A6FF; }
+  .b  { animation: wave 1.6s ease-in-out infinite; }
+  @keyframes wave { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-6px); } }
+</style>
+<text class="b" x="0.0" y="34" style="animation-delay:-0.00s">广</text>
+<text class="b" x="20.0" y="34" style="animation-delay:-1.53s">东</text>
+<text class="b" x="40.0" y="34" style="animation-delay:-1.46s">财</text>
+<text class="b" x="60.0" y="34" style="animation-delay:-1.39s">经</text>
+<text class="b" x="80.0" y="34" style="animation-delay:-1.32s">大</text>
+<text class="b" x="100.0" y="34" style="animation-delay:-1.25s">学</text>
+<text class="b" x="132.0" y="34" style="animation-delay:-1.11s">·</text>
+<text class="b" x="156.0" y="34" style="animation-delay:-0.97s">计</text>
+<text class="b" x="176.0" y="34" style="animation-delay:-0.90s">算</text>
+<text class="b" x="196.0" y="34" style="animation-delay:-0.83s">机</text>
+<text class="b" x="216.0" y="34" style="animation-delay:-0.76s">科</text>
+<text class="b" x="236.0" y="34" style="animation-delay:-0.69s">学</text>
+<text class="b" x="256.0" y="34" style="animation-delay:-0.62s">与</text>
+<text class="b" x="276.0" y="34" style="animation-delay:-0.55s">技</text>
+<text class="b" x="296.0" y="34" style="animation-delay:-0.48s">术</text>
+<text class="b" x="0.0" y="74" style="animation-delay:-0.00s">C</text>
+<text class="b" x="12.0" y="74" style="animation-delay:-1.53s">+</text>
+<text class="b" x="24.0" y="74" style="animation-delay:-1.46s">+</text>
+<text class="b" x="48.0" y="74" style="animation-delay:-1.32s">/</text>
+<text class="b" x="72.0" y="74" style="animation-delay:-1.18s">S</text>
+<text class="b" x="84.0" y="74" style="animation-delay:-1.11s">T</text>
+<text class="b" x="96.0" y="74" style="animation-delay:-1.04s">L</text>
+<text class="b" x="120.0" y="74" style="animation-delay:-0.90s">学</text>
+<text class="b" x="140.0" y="74" style="animation-delay:-0.83s">习</text>
+<text class="b" x="160.0" y="74" style="animation-delay:-0.76s">中</text>
+</svg>
