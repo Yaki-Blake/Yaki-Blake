@@ -23,7 +23,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yaki-Blake&show_icons=true&include_all_commits=true&count_private=true&locale=cn&hide_border=false" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yaki-Blake&show_icons=true&locale=cn&hide_border=false" alt="GitHub Stats" height="165"/>
 </p>
 
 ---
