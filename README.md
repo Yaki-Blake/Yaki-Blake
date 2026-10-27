@@ -7,13 +7,10 @@
 ## 📮 联系方式
 
 <p align="left">
-  <a href="tencent://message/?uin=691652331&Site=&Menu=yes"><img src="https://img.shields.io/badge/QQ-691652331-12B7F5?style=flat-square&logo=tencentqq&logoColor=white" alt="QQ"/></a><br/>
-  <a href="mailto:huangyiwei@student.gdufe.edu.cn"><img src="https://img.shields.io/badge/Email-huangyiwei%40student.gdufe.edu.cn-3B82F6?style=flat-square&logo=minutemailer&logoColor=white" alt="Email"/></a>
+  <a href="https://wpa.qq.com/msgrd?v=3&amp;uin=691652331&amp;site=qq&amp;menu=yes"><img src="https://img.shields.io/badge/QQ-691652331-12B7F5?style=flat-square&logo=tencentqq&logoColor=white" alt="QQ"/></a><br/>
+  <a href="mailto:huangyiwei@student.gdufe.edu.cn"><img src="https://img.shields.io/badge/Email-huangyiwei%40student.gdufe.edu.cn-3B82F6?style=flat-square&logo=minutemailer&logoColor=white" alt="Email"/></a><br/>
+  <a href="https://huangyiwei.online"><img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-huangyiwei.online-2EA043?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
 </p>
-
-<!-- ✏️ 个人网站上线后，取消下面注释并替换成你的域名：
-[![Website](https://img.shields.io/badge/个人网站-点击访问-2EA043?style=flat-square&logo=aboutdotme&logoColor=white)](https://你的域名)
--->
 
 ## 🛠️ 我的作品与贡献
 
