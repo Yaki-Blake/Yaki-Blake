@@ -10,14 +10,19 @@
   <a href="https://huangyiwei.online"><img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-huangyiwei.online-2EA043?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
 </p>
 
-## 🛠️ 我的作品与贡献
+## 🛠️ 我的作品
 
-| 项目 | 数据 | 链接 | 说明 |
-|:---|:---|:---|:---|
-| [**xerj**](https://github.com/xerj-org/xerj) | [![Stars](https://img.shields.io/github/stars/xerj-org/xerj?style=flat-square&logo=github&label=Stars&color=F1C40F)](https://github.com/xerj-org/xerj) | [📄 点击查看交流邮件截图](assets/tencent-mail.png) | 本地优先的开源搜索引擎，为代码和文档建索引，供 AI 编码智能体检索 |
-| [**Cpp-Input-Guard**](https://github.com/Yaki-Blake/Cpp-Input-Guard) | [![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json&query=%24%5B%22cpp-input-guard%22%5D.downloads&label=Downloads&logo=obsidian&color=7C3AED&style=flat-square)](https://community.obsidian.md/plugins/cpp-input-guard) | [obsidian community](https://community.obsidian.md/plugins/cpp-input-guard) | 记C++笔记时自动转义触发markdown语法的字符，保证笔记正常 |
-| [**pin-toggle**](https://github.com/Yaki-Blake/pin-toggle) | [![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json&query=%24%5B%22pin-toggle%22%5D.downloads&label=Downloads&logo=obsidian&color=7C3AED&style=flat-square)](https://community.obsidian.md/plugins/pin-toggle) | [obsidian community](https://community.obsidian.md/plugins/pin-toggle) | 全局热键唤出并置顶 Obsidian 窗口，再按一次收起 |
-| [**tmux**](https://github.com/tmux/tmux) | [![Stars](https://img.shields.io/github/stars/tmux/tmux?style=flat-square&logo=github&label=Stars&color=F1C40F)](https://github.com/tmux/tmux) | [PR #5782](https://github.com/tmux/tmux/pull/5782) | 终端复用器。修复 command-prompt 打开后，同批输入中紧随其后的按键被丢弃的问题；改动已合入上游主分支 |
+| 项目 | 数据 | 说明 |
+|:---|:---|:---|
+| [**Cpp-Input-Guard**](https://github.com/Yaki-Blake/Cpp-Input-Guard) | [![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json&query=%24%5B%22cpp-input-guard%22%5D.downloads&label=Downloads&logo=obsidian&color=7C3AED&style=flat-square)](https://community.obsidian.md/plugins/cpp-input-guard) | 记C++笔记时自动转义触发markdown语法的字符，保证笔记正常 |
+| [**pin-toggle**](https://github.com/Yaki-Blake/pin-toggle) | [![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json&query=%24%5B%22pin-toggle%22%5D.downloads&label=Downloads&logo=obsidian&color=7C3AED&style=flat-square)](https://community.obsidian.md/plugins/pin-toggle) | 全局热键唤出并置顶 Obsidian 窗口，再按一次收起 |
+
+## 🌱 我的贡献
+
+| 项目 | 链接 | 说明 |
+|:---|:---|:---|
+| [**xerj**](https://github.com/xerj-org/xerj) | [📄 点击查看交流邮件截图](assets/tencent-mail.png) | 本地优先的开源搜索引擎，为代码和文档建索引，供 AI 编码智能体检索 |
+| [**tmux**](https://github.com/tmux/tmux) | [PR #5782](https://github.com/tmux/tmux/pull/5782) | 终端复用器。修复 command-prompt 打开后，同批输入中紧随其后的按键被丢弃的问题；改动已合入上游主分支 |
 
 ## 📊 GitHub Stats
 
