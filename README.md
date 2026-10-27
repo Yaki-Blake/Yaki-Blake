@@ -21,7 +21,7 @@
 
 | 项目 | 链接 | 说明 |
 |:---|:---|:---|
-| [**xerj**](https://github.com/xerj-org/xerj) | [📄 点击查看交流邮件截图](assets/tencent-mail.png) | 本地优先的开源搜索引擎，为代码和文档建索引，供 AI 编码智能体检索 |
+| [**xerj**](https://github.com/xerj-org/xerj) | [📄 查看交流截图](assets/tencent-mail.png) | 本地优先的开源搜索引擎，为代码和文档建索引，供 AI 编码智能体检索 |
 | [**tmux**](https://github.com/tmux/tmux) | [PR #5782](https://github.com/tmux/tmux/pull/5782) | 终端复用器。修复 command-prompt 打开后，同批输入中紧随其后的按键被丢弃的问题；改动已合入上游主分支 |
 
 ## 📊 GitHub Stats
