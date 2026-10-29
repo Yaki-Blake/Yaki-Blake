@@ -20,6 +20,7 @@
 | [**code-editor-display-fix**](https://github.com/Yaki-Blake/code-editor-display-fix-skill) | [![Stars](https://img.shields.io/github/stars/Yaki-Blake/code-editor-display-fix-skill?style=flat-square&logo=github&label=Stars&color=F1C40F)](https://github.com/Yaki-Blake/code-editor-display-fix-skill) | 修复编辑器字体缺 CJK 字形、配色过暗、编码不匹配导致的注释无法显示，覆盖 Dev-C++、VS Code、CLion 等 8 种编辑器 |
 | [**DualGuard**](https://github.com/Yaki-Blake/DualGuard) | [![Stars](https://img.shields.io/github/stars/Yaki-Blake/DualGuard?style=flat-square&logo=github&label=Stars&color=F1C40F)](https://github.com/Yaki-Blake/DualGuard) | 解决 WorkBuddy 国内版与国际版更新时互相覆盖、冲突的问题，让两个版本共存互不干扰 |
 | [**mouse-ripple**](https://github.com/Yaki-Blake/mouse-ripple) | [![Stars](https://img.shields.io/github/stars/Yaki-Blake/mouse-ripple?style=flat-square&logo=github&label=Stars&color=F1C40F)](https://github.com/Yaki-Blake/mouse-ripple) | 把 WebGL 实时水波纹一键注入任意本地 HTML 页面：划过起涟漪、点击溅水花、触屏同样响应，零依赖且不改动原页面任何代码 · [在线 Demo](https://yaki-blake.github.io/mouse-ripple/) |
+| [**bili-ai-whisper**](https://github.com/Yaki-Blake/bili-ai-whisper) | [![Stars](https://img.shields.io/github/stars/Yaki-Blake/bili-ai-whisper?style=flat-square&logo=github&label=Stars&color=F1C40F)](https://github.com/Yaki-Blake/bili-ai-whisper) | 给 B站 没有官方字幕的视频用本地 faster-whisper 边转边出中文字幕，音频不出本机 |
 
 ## 🌱 我的贡献
 
