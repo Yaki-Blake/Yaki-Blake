@@ -28,7 +28,7 @@
 |:---|:---|:---|:---|:---|
 | [**dear imgui**](https://github.com/ocornut/imgui) | [![Stars](https://img.shields.io/github/stars/ocornut/imgui?style=flat-square&logo=github&label=Stars&color=F1C40F)](https://github.com/ocornut/imgui) | [#9592](https://github.com/ocornut/imgui/pull/9592) | [2f1552d](https://github.com/ocornut/imgui/commit/2f1552d4d58b8b443d70e27edddb92a3c3f68641) | 图形界面库。给 `TreeNodeGetOpen()` 增加 flags 参数，修正 `DefaultOpen` / `Leaf` 节点在首次交互前被误报为关闭的问题（#9569）；已合入 master |
 | [**tmux**](https://github.com/tmux/tmux) | [![Stars](https://img.shields.io/github/stars/tmux/tmux?style=flat-square&logo=github&label=Stars&color=F1C40F)](https://github.com/tmux/tmux) | [#5782](https://github.com/tmux/tmux/pull/5782) | 待上游同步 | 终端复用器。修复 command-prompt 打开后，同批输入中紧随其后的按键被丢弃的问题；维护者已应用于 OpenBSD，GitHub 镜像随后跟进 |
-| [**xerj**](https://github.com/xerj-org/xerj) | [![Stars](https://img.shields.io/github/stars/xerj-org/xerj?style=flat-square&logo=github&label=Stars&color=F1C40F)](https://github.com/xerj-org/xerj) | [邮件交流截图](assets/tencent-mail.png) | — | 本地优先的开源搜索引擎，为代码和文档建索引，供 AI 编码智能体检索 |
+| [**xerj**](https://github.com/xerj-org/xerj) | [![Stars](https://img.shields.io/github/stars/xerj-org/xerj?style=flat-square&logo=github&label=Stars&color=F1C40F)](https://github.com/xerj-org/xerj) | [邮件交流截图](assets/tencent-mail.png) | [贡献者榜单](https://hub.xerj.org/contributors/Yaki-Blake) | 本地优先的开源搜索引擎，为代码和文档建索引，供 AI 编码智能体检索 |
 
 ## 📊 GitHub Stats
 
