@@ -41,6 +41,12 @@
     <img src="https://raw.githubusercontent.com/Yaki-Blake/Yaki-Blake/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
   </picture>
 </p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
+    <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%"/>
+  </picture>
+</p>
 
 ---
 
