@@ -37,8 +37,10 @@
   <img src="profile-summary-card-output/github/3-stats.svg" alt="GitHub Stats" height="165"/>
 </p>
 <p align="center">
-  <img src="profile-summary-card-output/github/1-repos-per-language.svg" alt="Repos per Language" height="165"/>
-  <img src="profile-summary-card-output/github/2-most-commit-language.svg" alt="Most Commit Language" height="165"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yaki-Blake/Yaki-Blake/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Yaki-Blake/Yaki-Blake/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
+  </picture>
 </p>
 
 ---
