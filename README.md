@@ -33,7 +33,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yaki-Blake&show_icons=true&locale=cn&hide_border=false" alt="GitHub Stats" height="165"/>
+  <img src="profile-summary-card-output/github/0-profile-details.svg" alt="Profile Details" height="165"/>
+  <img src="profile-summary-card-output/github/3-stats.svg" alt="GitHub Stats" height="165"/>
+</p>
+<p align="center">
+  <img src="profile-summary-card-output/github/1-repos-per-language.svg" alt="Repos per Language" height="165"/>
+  <img src="profile-summary-card-output/github/2-most-commit-language.svg" alt="Most Commit Language" height="165"/>
 </p>
 
 ---
