@@ -33,7 +33,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="profile-summary-card-output/github/0-profile-details.svg" alt="Profile Details" height="165"/>
   <img src="profile-summary-card-output/github/3-stats.svg" alt="GitHub Stats" height="165"/>
 </p>
 <p align="center">
