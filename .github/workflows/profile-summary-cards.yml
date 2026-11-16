@@ -22,11 +22,22 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           THEME: github    # 跟随 GitHub 默认亮色主题
+          # 关闭 action 内置提交：当卡片数据无变化时，其内部 commit 会因
+          # "nothing to commit" 失败并抛出 git push 128，导致整个 job 挂掉。
+          # 统一交给下方带保护的 Commit and push 步骤处理。
+          AUTO_PUSH: false
 
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile-summary-card-output
-          git diff --cached --quiet || git commit -m "chore: update profile summary cards [skip ci]"
+          # 无变化时不 commit，直接跳过；有变化才提交
+          if git diff --cached --quiet; then
+            echo "No card changes, skip commit."
+          else
+            git commit -m "chore: update profile summary cards [skip ci]"
+          fi
+          # 推送前先 rebase 远端，避免与其他 workflow(3d-contrib/snake) 的提交冲突
+          git pull --rebase origin main || true
           git push
